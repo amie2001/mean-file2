@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'pavithra/mean-app'
+        IMAGE_NAME = 'pavi2244/mean-app'
         TAG = 'latest'
     }
 
